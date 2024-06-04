@@ -2,9 +2,9 @@ CHAPTER 1. BREAD
 
 Recipe 1.1: Basic bread
 Ingredieants:
-- flour
-- salt
-- water
+- flour (300g)
+- salt (3g)
+- water (100ml)
 - yeast
 Instructions:
 - mix ingredients
