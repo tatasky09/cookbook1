@@ -7,9 +7,9 @@ Ingredieants:
 - water
 - yeast
 Instructions:
-- mix ingredients
-- knead for 20 minutes
-- let rise for 1 hour
+- mix ingredients (heavy)
+- knead for 20 minutes 
+- let rise for 1 hour (another)
 - bake at 425 F for 25 min
 
 
