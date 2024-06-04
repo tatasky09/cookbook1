@@ -8,7 +8,7 @@ Ingredieants:
 - yeast
 Instructions:
 - mix ingredients
-- knead for 20 minutes
+- knead until the dough becomes stretchy
 - let rise for 1 hour
 - bake at 425 F for 25 min
 
